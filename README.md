@@ -36,7 +36,7 @@ This repository is intentionally curated and does not represent an exhaustive ar
 - Based in Edmonton, Alberta (Canada)
 
 ## Contact
-- LinkedIn: *(https://www.linkedin.com/in/marianmgbaja/)*
+- [LinkedIn] *(https://www.linkedin.com/in/marianmgbaja/)*
 
 
 ---
