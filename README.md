@@ -37,6 +37,7 @@ This repository is intentionally curated and does not represent an exhaustive ar
 
 ## Contact
 - LinkedIn: *(https://www.linkedin.com/in/marianmgbaja/)*
+- Google scholar: https://scholar.google.ca/citations?user=FczuWVUAAAAJ&hl=en
 
 
 ---
