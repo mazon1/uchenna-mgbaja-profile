@@ -55,7 +55,5 @@ This page highlights a curated set of projects and initiatives reflecting my foc
 
 ---
 
-## Selected Links
-- **Google Scholar (publications & citations):**
-- https://scholar.google.ca/citations?user=FczuWVUAAAAJ&hl=en
+
 
